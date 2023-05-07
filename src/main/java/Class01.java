@@ -7,6 +7,7 @@ public class Class01 {
 
         //local'den sevgilerle
         //v5
+        //v6
 
     }
 }
